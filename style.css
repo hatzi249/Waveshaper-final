@@ -52,8 +52,8 @@
 .film-box:hover {
     border: #1B615F solid 10px;
 }
-.box:hover{
-    background: #1B615F;
+/*.box:hover{
+    background: #1B615F;*/
 }
 .box a{
     position: relative;
