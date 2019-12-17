@@ -52,14 +52,10 @@
 .film-box:hover {
     border: #1B615F solid 10px;
     box-sizing: border-box;
-    
 }
-/*background: #1B615F*/
+
 .box:hover{
-    border: #1B615F solid 10px;
-    box-sizing: border-box;
-    
-}
+    background: #1B615F;
 }
 .box a{
     position: relative;
