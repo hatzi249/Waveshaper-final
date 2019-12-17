@@ -1,0 +1,26 @@
+body{
+    background: crimson;
+}
+main{
+    background: url(images/Snowflakes.png);
+    background-repeat: repeat;
+    
+    
+    top: 0;
+    left: 0;
+    animation: animateOne 60s infinite linear;
+}
+@keyframes animateOne
+{
+    0%
+    {
+        background-position: 0px 0px
+    }
+    100%
+    {
+        background-position: 0px 6000px
+    }
+}
+.europa{
+    opacity: 0.5;
+  }
