@@ -61,6 +61,21 @@
     border-radius: 15px;
     margin-top: 20px;
 }
+ /*biljett*/
+  .box1{
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: none;
+   border-radius: 15px;
+    }
+.box1:hover{
+    background: #1B615F;
+}
+img1{
+    max-width: 100%;
+    height: auto;
+    border-radius: 20px;
+    }
     
       
     } 
