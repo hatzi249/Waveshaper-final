@@ -144,6 +144,9 @@ img1{
   .card-deck{
     flex-direction: column;
   }
+  .card-deck> .card{
+      margin-bottom: 10px;
+  }
 }
 
 
