@@ -37,12 +37,27 @@
   .Ah{
       text-align: center;
     }
-    .box{
-      padding: 15px;
-      display:block;
-      text-align: center;
-      /* ta bort?
-      border: 1px white; */
+        .box{
+    text-align: center;
+    padding: 15px;
+   
+    border-radius: 15px;
+    
+    border-radius: 15px;
+}
+.box:hover{
+    background: #1B615F;
+}
+.box a{
+    position: relative;
+}
+.box a img{
+    max-width: 100%;
+    height: auto;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+    
       
     } 
   .card-img{ 
